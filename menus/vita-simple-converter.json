@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle vita-simple-converter",
+        "command": "vita-simple-converter:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "vita-simple-converter",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "vita-simple-converter:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

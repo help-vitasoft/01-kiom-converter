@@ -1,0 +1,18 @@
+{
+  "name": "vita-simple-converter",
+  "main": "./lib/vita-simple-converter",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "vita-simple-converter:toggle"
+  },
+  "repository": "https://github.com/scy-vitasoft/vita-simple-converter.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
