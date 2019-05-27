@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "vita-simple-converter",
+          "label": "vitasoft-kiom",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "vita-simple-converter",
               "command": "vita-simple-converter:toggle"
             }
           ]
