@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle vita-simple-converter",
+        "label": "Toggle vita-converter",
         "command": "vita-simple-converter:toggle"
       }
     ]
@@ -15,7 +15,7 @@
           "label": "vitasoft-kiom",
           "submenu": [
             {
-              "label": "vita-simple-converter",
+              "label": "vita-converter",
               "command": "vita-simple-converter:toggle"
             }
           ]
