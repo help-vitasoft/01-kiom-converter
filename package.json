@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "vita-simple-converter:toggle"
   },
-  "repository": "https://github.com/scy-vitasoft/vita-simple-converter.git",
+  "repository": "https://github.com/imwanju/vita-simple-converter.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
