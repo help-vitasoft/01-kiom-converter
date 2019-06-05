@@ -1,7 +1,7 @@
 {
   "name": "vita-converter",
   "main": "./lib/vita-simple-converter",
-  "version": "0.3.18",
+  "version": "0.3.19",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
