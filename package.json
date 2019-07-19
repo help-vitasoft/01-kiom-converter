@@ -1,5 +1,5 @@
 {
-  "name": "vita-converter",
+  "name": "kiom-converter",
   "main": "./lib/vita-simple-converter",
   "version": "0.3.48",
   "description": "A short description of your package",
