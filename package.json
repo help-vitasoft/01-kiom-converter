@@ -1,5 +1,5 @@
 {
-  "name": "01.converter",
+  "name": "vita-converter",
   "main": "./lib/vita-simple-converter",
   "version": "0.3.47",
   "description": "A short description of your package",
