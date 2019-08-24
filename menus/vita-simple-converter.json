@@ -15,7 +15,7 @@
           "label": "kiom",
           "submenu": [
             {
-              "label": "kiom-converter",
+              "label": "01-kiom-converter",
               "command": "vita-simple-converter:toggle"
             }
           ]
