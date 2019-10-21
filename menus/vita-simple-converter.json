@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle vita-converter",
+        "command": "vita-simple-converter:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "kiom",
+          "submenu": [
+            {
+              "label": "01-kiom-converter",
+              "command": "vita-simple-converter:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

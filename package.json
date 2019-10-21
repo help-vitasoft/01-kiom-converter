@@ -1,0 +1,19 @@
+{
+  "name": "01-kiom-converter",
+  "main": "./lib/vita-simple-converter",
+  "version": "0.3.53",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "vita-simple-converter:toggle"
+  },
+  "repository": "https://github.com/help-vitasoft/vita-simple-converter.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "dding-fnv": "1.0.1"
+  }
+}
