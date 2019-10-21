@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "fs": "0.0.1-security",
-    "dding-fnv": "0.3.57"
+    "dding-fnv": "1.0.1"
   }
 }
