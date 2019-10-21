@@ -1,7 +1,7 @@
 {
   "name": "01-kiom-converter",
   "main": "./lib/vita-simple-converter",
-  "version": "0.3.54",
+  "version": "0.4.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
